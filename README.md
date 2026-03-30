@@ -1,7 +1,7 @@
-#Student Program
+# Student Program
 This project is a program written in Python. It is a console application that allows the user to register students. The program is useful for practicing programming concepts such as loops, conditionals, and user input.
 
-#Functionality:
+# Functionality:
 
 The program starts and displays a welcome message.
 
@@ -11,5 +11,5 @@ The user selects an option from the menu.
 
 The user repeats the process or selects option 6 to exit the program.
 
-#Status:
+# Status:
 This project is functional and demonstrates the use of menus, loops, and conditional statements in Python.
